@@ -1,0 +1,11 @@
+streamlit
+openai-whisper
+transformers
+torch
+sentence-transformers
+faiss-cpu
+git+https://github.com/cardiffnlp/tweeteval.git
+gTTS
+pygame
+sqlite-utils
+plotly
