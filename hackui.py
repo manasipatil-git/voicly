@@ -3,7 +3,6 @@ import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 import streamlit as st
 import numpy as np
-import pyaudio
 import wave
 import threading
 import queue
