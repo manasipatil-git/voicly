@@ -1,5 +1,5 @@
 streamlit
-openai-whisper
+git+https://github.com/openai/whisper.git
 transformers
 torch
 sentence-transformers
@@ -9,3 +9,4 @@ gTTS
 pygame
 sqlite-utils
 plotly
+ffmpeg-python
